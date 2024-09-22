@@ -5,7 +5,7 @@ This project is focused on mastering essential React concepts, particularly comp
 ### Preview
 ![Preview image](./src/assets/React%20Essentials.JPG)
 
-### 🔑 Concepts Covered
+###  Concepts Covered
 ### Components
 Components are the building blocks of React applications. They allow you to split the UI into independent, reusable pieces. This project uses functional components, which are simpler and easier to manage.
 
