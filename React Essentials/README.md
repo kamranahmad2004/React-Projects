@@ -9,7 +9,7 @@ This project is focused on mastering essential React concepts, particularly comp
 ### Components
 Components are the building blocks of React applications. They allow you to split the UI into independent, reusable pieces. This project uses functional components, which are simpler and easier to manage.
 
-#### Reusability
+### Reusability
 - **Importance:** Reusable components help reduce code duplication and improve maintainability.
 - __Implementation:__ Components can be designed to accept props, allowing them to be used in different contexts with varying data.
 
